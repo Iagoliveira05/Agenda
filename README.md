@@ -19,4 +19,4 @@
 </ul>
 
 <h3>Autor:</h3>
-<p>Iago de Oliveira Andrade</p>
+<p><i>Iago de Oliveira Andrade</i></p>
